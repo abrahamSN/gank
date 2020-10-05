@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437534964134",
+    "firebase_url": "https://gank-658e7.firebaseio.com",
+    "project_id": "gank-658e7",
+    "storage_bucket": "gank-658e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437534964134:android:07f6e3d9be2706f5893767",
+        "android_client_info": {
+          "package_name": "id.mascode.gank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437534964134-o1amn9sllnioodudtvg7shdlhrbun56i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQsXSTBxn2-XvFQ3gcthRrVHjRpMS5TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437534964134-o1amn9sllnioodudtvg7shdlhrbun56i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437534964134-3ud22g7b2ikfp4gr1fbmgjdna65vpp5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.mascode.gank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
